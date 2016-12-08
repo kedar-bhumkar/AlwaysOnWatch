@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Healthcloud-alpha</string>
+    <string name="hello_round">Always on?</string>
+    <string name="hello_square">Always on?</string>
+</resources>
